@@ -10,3 +10,11 @@ Human action recognition is an active field in computer vision task and is highl
  
  ## Evaluation with existing methods.[Right Ours]
  ![245994630_579499846606159_1521611393687931383_n](https://user-images.githubusercontent.com/66351304/141077843-e5e023d0-b7fa-458f-b365-26498add4a52.jpg)
+ ### References 
+ - Dataset 
+ https://www.crcv.ucf.edu/data/UCF101.php
+ - Related Paper
+ C3D: Learning Spatiotemporal Features with 3D Convolutional Networks (Video Classification & Action Recognition)
+ - References 
+ https://github.com/DavideA/c3d-pytorch
+ https://arxiv.org/abs/1412.0767
